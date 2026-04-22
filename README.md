@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h2><strong><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f_ZOYv30hiI7_ANjiliQ3A.png" alt="" width="100%" height="100%" /></strong></h2>
+<h2><strong><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*k5hleGQD83fmuJV_NWKwXQ.png" alt="" width="100%" height="100%" /></strong></h2>
 <h2><strong>Introduction</strong></h2>
 <p>Ever pulled your vape out of your pocket only to find a sticky mess? We've all been there. It's frustrating, wasteful, and honestly, pretty gross. But here's the thing &ndash; leaking doesn't have to be part of the vaping experience. The <strong>vaporesso xros</strong> series has cracked the code on keeping e-liquid exactly where it belongs: inside the pod.</p>
 <p>I'm going to walk you through the actual science that makes this possible. No marketing fluff. Just the real engineering that separates a reliable device from a pocket-ruining nightmare.</p>
