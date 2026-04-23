@@ -33,6 +33,7 @@
 <p>Mouth-to-lung draw styles create less internal vacuum than direct-lung hits. The XROS series is optimised for MTL, which means less suction force pulling liquid where it shouldn't go.</p>
 <h3><strong>Adjustable Airflow Benefits</strong></h3>
 <p>Being able to control airflow lets you match the draw to your liquid's viscosity. Thicker liquids need different airflow than thinner ones. This customisation prevents over-saturation of the coil, which is a common leak trigger.</p>
+<p><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*I8xw3p1FeL-kDik9gpOYEw.png" alt="" width="100%" height="100%" /></p>
 <h2><strong>Material Science Matters</strong></h2>
 <p>Let's talk about what these pods are actually made from.</p>
 <h3><strong>PCTG Plastic Properties</strong></h3>
